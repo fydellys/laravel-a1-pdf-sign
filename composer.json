@@ -31,9 +31,9 @@
     "ext-fileinfo": "*",
     "ext-mbstring": "*",
     "ext-openssl": "*",
-    "illuminate/support": "^9 || ^10 || ^11 || ^12",
-    "illuminate/encryption": "^9 || ^10 || ^11 || ^12",
-    "illuminate/http": "^9 || ^10 || ^11 || ^12",
+    "illuminate/support": "^9 || ^10 || ^11 || ^12 || ^13.0",
+    "illuminate/encryption": "^9 || ^10 || ^11 || ^12 || ^13.0",
+    "illuminate/http": "^9 || ^10 || ^11 || ^12 || ^13.0",
     "tecnickcom/tc-lib-pdf": "^8",
     "tecnickcom/tcpdf": "^6",
     "setasign/fpdi": "^2.6",
@@ -69,7 +69,7 @@
     "lsnepomuceno/laravel-brazilian-ceps": "A package for querying zip codes for Brazilian addresses."
   },
   "require-dev": {
-    "orchestra/testbench": "^7 || ^8 || ^9 || ^10",
+    "orchestra/testbench": "^7 || ^8 || ^9 || ^10 || ^11.0",
     "nunomaduro/collision": "^6 || ^7 || ^8"
   },
   "config": {
